@@ -3,7 +3,7 @@
 Welcome to Python Beginner Projects! This repository contains a collection of simple Python projects designed for beginners to practice fundamental programming concepts such as variables, loops, conditionals, functions, and basic input/output.
 These projects are perfect for building your Python skills and creating a strong foundation for more advanced projects.
 
-📂 Project Structure
+📂 Project Structure:
 python-projects/
 │
 ├── simple-calculator/
@@ -19,7 +19,7 @@ python-projects/
 ├── README.md
 └── requirements.txt
 
-🚀 Projects Overview
+🚀 Projects Overview:
 1. Simple Calculator
 A command-line calculator to perform addition, subtraction, multiplication, and division.
 Skills: Operators, functions, user input.
@@ -41,5 +41,4 @@ Check the strength of a password based on length, character types, and common pa
 Skills: Strings, regular expressions, user input.
 
 📌 RequirementsPython 3.7 or higher
-
 Standard library only; no additional packages require
