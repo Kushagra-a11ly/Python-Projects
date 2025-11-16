@@ -33,9 +33,9 @@ Python 3.7 or higher
 Standard library only (no external packages required)
 
 🌟 Skills Practiced:
-Python classes and objects
-Functions and methods
-Loops and conditionals
-User input handling (secure PIN entry)
-Data storage with lists and dictionaries
-Date and time handling (datetime)
+Python classes and objects.
+Functions and methods.
+Loops and conditionals.
+User input handling (secure PIN entry).
+Data storage with lists and dictionaries.
+Date and time handling (datetime).
