@@ -40,5 +40,4 @@ Functions and methods
 Loops and conditionals
 User input handling (secure PIN entry)
 Data storage with lists and dictionaries
-
 Date and time handling (datetime)
