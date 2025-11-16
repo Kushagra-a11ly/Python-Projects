@@ -31,5 +31,5 @@ No external libraries required
 Python classes and objects
 Functions and methods
 Loops and conditional statements
-List management and indexin
+List management and indexing
 Command-line user interaction
