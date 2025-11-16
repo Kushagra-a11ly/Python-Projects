@@ -2,9 +2,9 @@ ATM Simulator
 A command-line ATM Simulator built in Python that allows users to perform basic banking operations like checking balance, depositing, withdrawing, and viewing transaction history. This project is ideal for beginners learning Python classes, functions, loops, and handling user input securely.
 
 📂 Project Structure
-atm-simulator/
+ATM Simulator/
 │
-├── atm.py
+├── ATM Simulator.py
 └── README.md
 
 🚀 Features
