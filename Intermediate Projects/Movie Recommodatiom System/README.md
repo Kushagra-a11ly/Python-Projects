@@ -17,15 +17,15 @@ The project includes 50+ movies, covering:
 ✔ Romance
 
 🚀 Features
-✅ Add movies with title, genres, and description
-✅ Builds a unique set of genres automatically
-✅ Converts genres into numerical vectors
-✅ Computes cosine similarity between movies
-✅ Recommends top 5 similar movies
-✅ Fully CLI-based — no external UI required
+1.Add movies with title, genres, and description.
+2.Builds a unique set of genres automatically
+3.Converts genres into numerical vectors
+4.Computes cosine similarity between movies
+5.Recommends top 5 similar movies
+6.Fully CLI-based — no external UI required
+
 🧠 How the Recommendation Works
 1. Create Genre Vector
-
 If the total genre set is:
 [action, drama, sci-fi, comedy]
 And the movie genres are:
@@ -34,7 +34,6 @@ Then vector =
 [1, 0, 1, 0]
 
 2. Sort Results & Show Best Recommendations
-
 Top N movies (default 5) are displayed with their similarity scores.
 
 🏗 Project Structure
@@ -65,7 +64,6 @@ The Lion King
 Avengers: Endgame
 
 📁 Dataset Details
-
 Over 50 movies with:
 Title
 Genres
