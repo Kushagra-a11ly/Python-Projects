@@ -2,8 +2,6 @@
 
 # Python Projects – Beginner to Advanced
 
-![Python Projects Cover](https://github.com/Kushagra-a11ly/Python-Projects/blob/a805acc1587dc1065577e934b0904b876a3d1894/Python%20Project%20%20cover%20image%20.jpg)
-
 A curated collection of Python projects designed to demonstrate progression from foundational programming skills to advanced development concepts. This repository serves as a practical portfolio reflecting proficiency, problem-solving ability, and real-world application of Python across multiple domains.
 
 ---
